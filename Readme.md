@@ -47,8 +47,7 @@
 
 ![Prajwal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prajwal-1703&theme=tokyo-night)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=prajwal-1703&theme=matrix&margin-w=15&margin-h=15)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=prajwal-1703&theme=gruvbox&column=6&margin-w=10&margin-h=10) 
 </p>
 
 ---
