@@ -41,15 +41,15 @@
 
 <p align="center">
 
-![Prajwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwal\&show_icons=true\&theme=tokyonight\&count_private=true\&include_all_commits=true)
+![Prajwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwal-1703\&show_icons=true\&theme=tokyonight\&count_private=true\&include_all_commits=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=prajwal\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=prajwal-1703\&theme=tokyonight\&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal\&layout=compact\&theme=tokyonight\&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-1703\&layout=compact\&theme=tokyonight\&langs_count=8)
 
-![Prajwal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prajwal\&theme=tokyo-night)
+![Prajwal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prajwal-1703\&theme=tokyo-night)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=prajwal\&theme=matrix\&margin-w=15\&margin-h=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=prajwal-1703\&theme=matrix\&margin-w=15\&margin-h=15)
 
 </p>
 
