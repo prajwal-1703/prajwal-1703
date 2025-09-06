@@ -1,60 +1,106 @@
-# 👋 Hey, I’m Prajwal
+```
+██████╗ ██████╗  █████╗      ██╗    ██╗ █████╗ ██████╗ 
+██╔══██╗██╔══██╗██╔══██╗     ██║    ██║██╔══██╗██╔══██╗
+██████╔╝██████╔╝███████║     ██║ █╗ ██║███████║██████╔╝
+██╔═══╝ ██╔═══╝ ██╔══██║     ██║███╗██║██╔══██║██╔═══╝ 
+██║     ██║     ██║  ██║     ╚███╔███╔╝██║  ██║██║     
+╚═╝     ╚═╝     ╚═╝  ╚═╝      ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝     
+```
+
+# ⚡ Hey, I’m Prajwal ⚡
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="coding" width="280"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=700&lines=Blockchain+Developer;DevOps+Engineer;Cybersecurity+Enthusiast;Full-Stack+Learner;Always+Learning+%26+Building" />
 </p>
 
-<h3 align="center">Blockchain ⚡ DevOps ⚙️ Cybersecurity 🔐</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="600" alt="matrix animation"/>
+</p>
 
 ---
 
-## 🚀 Quick Pitch
+## 🚀 About Me
 
-I'm a student building **secure**, **automated**, and **decentralized** systems. I automate pipelines, write smart contracts, and hunt vulnerabilities — all with a keyboard and a cup of chai.
-
----
-
-## 🔭 What I’m working on
-
-* 🧩 A Solidity-powered DApp (Hardhat + Ethers.js)
-* ⚙️ CI/CD pipelines with GitHub Actions + Docker + Kubernetes
-* 🔎 Bug bounties & penetration testing practice labs
+* 🛠️ Building **decentralized apps** & smart contracts with Solidity, Hardhat & Ethers.js
+* ⚡ Automating deployments using **Docker, Kubernetes & CI/CD pipelines**
+* 🔒 Exploring **Cybersecurity** through penetration testing & bug bounties
+* 🌍 Open-source contributor & continuous learner
+* ☕ Fueled by chai + curiosity
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Arsenal
 
-**Blockchain:** Solidity · Hardhat · Ethers.js · MetaMask · IPFS
-**DevOps:** Docker · Kubernetes · GitHub Actions · Terraform · AWS
-**Security:** Nmap · Burp Suite · Wireshark · Metasploit
+**🪙 Blockchain**
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge\&logo=solidity\&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge\&logo=ethereum\&logoColor=white)
+![Metamask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge\&logo=metamask\&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FCC624?style=for-the-badge\&logo=ethereum\&logoColor=black)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="150"/>
+</p>
+
+**⚙️ DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
+</p>
+
+**🔐 Cybersecurity**
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge\&logo=burp-suite\&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kali-linux\&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-2C2C2C?style=for-the-badge\&logo=nmap\&logoColor=white)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/>
+</p>
 
 ---
 
-## ✨ Animated Highlights
+## ⚡ Animated Highlights
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/eliangcs/animations/main/dev-loop.gif" alt="dev loop" width="560"/>
 </p>
 
-> *Tip:* GitHub README supports GIFs — drop any short loop and it instantly feels alive.
+<p align="center">
+  <img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
+</p>
 
 ---
 
-## 💻 Profile Bits (drop into README as-is)
+## 📊 GitHub Stats
 
-```md
-![Prajwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwal-1703&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-1703&layout=compact&theme=tokyonight)
-```
+![Prajwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwal\&show_icons=true\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=prajwal\&theme=tokyonight\&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal\&layout=compact\&theme=tokyonight)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+</p>
 
 ---
 
 ## 🎯 Goals
 
-* Ship 3 open-source DApps by the end of this year.
-* Land a Web3/DevOps internship and work on production-grade infra.
-* Build a secure, automated CI/CD template repos for other students.
+* 🚀 Launch 3 open-source DApps this year
+* ⚙️ Master production-grade **DevOps workflows**
+* 🔒 Contribute to **open cybersecurity projects**
+* 🌐 Build a secure CI/CD template repo for student devs
 
 ---
 
@@ -66,16 +112,18 @@ I'm a student building **secure**, **automated**, and **decentralized** systems.
 
 ---
 
-## 🧾 Fun, Animated Footer
-
 <p align="center">
-  <img src="https://media.giphy.com/media/L0K9n4j2Qb1W/giphy.gif" alt="hacker" width="260"/>
+  <img src="https://media.giphy.com/media/L0K9n4j2Qb1W/giphy.gif" alt="hacker" width="300"/>
 </p>
 
-> *I don’t just write code — I ship secured, automated, decentralized systems.*
+> *I don’t just write code — I ship **secured, automated, decentralized systems**.*
 
 ---
 
-If you want this in a **hacker-terminal style**, **minimal dark** or **badge-heavy** variant, tell me which and I’ll generate the exact markdown (with different GIFs, badges, and layout).
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=18&center=true&vCenter=true&width=700&lines=Made+with+%F0%9F%92%80+in+Blockchain+%7C+DevOps+%7C+Cybersecurity" />
+</p>
 
-*— Happy hacking!*
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600"/>
+</p>
