@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="600" alt="matrix animation"/>
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="500" alt="matrix animation"/>
 </p>
 
 ---
@@ -38,8 +38,7 @@
 ![Hardhat](https://img.shields.io/badge/Hardhat-FCC624?style=for-the-badge\&logo=ethereum\&logoColor=black)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="150"/>
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="140"/>
 </p>
 
 **⚙️ DevOps**
@@ -51,7 +50,6 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
 </p>
 
 **🔐 Cybersecurity**
@@ -61,8 +59,7 @@
 ![Nmap](https://img.shields.io/badge/Nmap-2C2C2C?style=for-the-badge\&logo=nmap\&logoColor=white)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="160"/>
 </p>
 
 ---
@@ -70,15 +67,11 @@
 ## ⚡ Animated Highlights
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eliangcs/animations/main/dev-loop.gif" alt="dev loop" width="560"/>
+  <img src="https://raw.githubusercontent.com/eliangcs/animations/main/dev-loop.gif" alt="dev loop" width="480"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="500"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="400"/>
 </p>
 
 ---
@@ -88,10 +81,6 @@
 ![Prajwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwal\&show_icons=true\&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=prajwal\&theme=tokyonight\&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal\&layout=compact\&theme=tokyonight)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
-</p>
 
 ---
 
@@ -113,7 +102,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L0K9n4j2Qb1W/giphy.gif" alt="hacker" width="300"/>
+  <img src="https://media.giphy.com/media/L0K9n4j2Qb1W/giphy.gif" alt="hacker" width="250"/>
 </p>
 
 > *I don’t just write code — I ship **secured, automated, decentralized systems**.*
@@ -122,8 +111,4 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=18&center=true&vCenter=true&width=700&lines=Made+with+%F0%9F%92%80+in+Blockchain+%7C+DevOps+%7C+Cybersecurity" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600"/>
 </p>
