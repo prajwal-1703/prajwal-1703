@@ -43,11 +43,10 @@ I'm a student building **secure**, **automated**, and **decentralized** systems.
 ## 💻 Profile Bits (drop into README as-is)
 
 ```md
-![Prajwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwal&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal&layout=compact&theme=tokyonight)
+![Prajwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwal-1703&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-1703&layout=compact&theme=tokyonight)
 ```
 
-*(Replace `prajwal` with your GitHub username if different.)*
 
 ---
 
