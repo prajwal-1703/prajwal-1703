@@ -67,7 +67,7 @@
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square\&logo=linkedin)](#)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square\&logo=twitter)](#)
+[![Twitter](https://x.com/deva_1703)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23?style=flat-square\&logo=google-chrome)](#)
 
 ---
