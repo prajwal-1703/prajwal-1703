@@ -95,8 +95,15 @@ VizLab is a DevOps infrastructure visualization platform that transforms complex
 ## 🛰 Infrastructure Signals
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-1703&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwal-1703&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwal-1703&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal-1703&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwal-1703&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -104,8 +111,29 @@ VizLab is a DevOps infrastructure visualization platform that transforms complex
 ## Architecture Flow
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284126-3e4b34f4-8a0e-4c6b-9c18-f3e68f5e3a8a.gif" width="520"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:3730A3&height=120&section=header&text=System%20Architecture&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/User_Interface-React-61DAFB?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/API-Layer-Node.js-339933?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Metrics-Engine-Processing-9333EA?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data-Docker-2496ED?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/Data-AWS-FF9900?style=for-the-badge&logo=amazonaws"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dependency-Mapping-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Visualization-Layer-16A34A?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3730A3,100:1D4ED8&height=100&section=footer"/>
+</p>
+
 
 ---
 
