@@ -95,17 +95,23 @@ VizLab is a DevOps infrastructure visualization platform that transforms complex
 ## 🛰 Infrastructure Signals
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prajwal-1703&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/System-Status-Operational-16A34A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-Pipelines-Active-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-Running-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Containers-Dockerized-2496ED?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prajwal-1703&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Infra-Fully%20Automated-1D4ED8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Security-DevSecOps%20Enabled-9333EA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Monitoring-Real--Time-F59E0B?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwal-1703&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Focus-Kubernetes-326CE5?style=flat-square&logo=kubernetes"/>
+  <img src="https://img.shields.io/badge/Focus-Terraform-7C3AED?style=flat-square&logo=terraform"/>
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Optimization-1D4ED8?style=flat-square"/>
 </p>
->
 
 ---
 
