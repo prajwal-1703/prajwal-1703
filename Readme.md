@@ -7,18 +7,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1400&color=2563EB&center=true&vCenter=true&width=620&lines=Production+Cloud+Infrastructure;Secure+CI%2FCD+Pipelines;AWS+Cost+Optimization;Infrastructure+Visualization" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ---
 
 ## About
 
 I build **production-grade, secure, and observable infrastructure systems**.  
-My work sits at the intersection of **cloud engineering, DevOps automation, and DevSecOps practices**, with a focus on reliability, clarity, and cost efficiency.
+My work focuses on **cloud engineering, DevOps automation, and DevSecOps practices** with reliability, clarity, and cost efficiency at the core.
 
 - Cloud-native infrastructure using AWS and Kubernetes  
 - CI/CD and DevSecOps pipeline engineering  
 - Monitoring, observability, and dependency mapping  
 - Security-integrated delivery (SAST, DAST, container scanning)  
-- Systems designed for scale, resilience, and clarity  
+- Systems designed for scale and resilience  
 
 ---
 
@@ -31,27 +35,35 @@ My work sits at the intersection of **cloud engineering, DevOps automation, and 
   <img src="https://img.shields.io/badge/Architecture-Production%20MERN-15803D?style=for-the-badge"/>
 </p>
 
-**VizLab** is a DevOps infrastructure visualization platform built to turn complex system architectures into **clear, interactive visual intelligence**.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-02e1b87a-7b77-4c1c-8d89-0f8e4a5a0f28.gif" width="500"/>
+</p>
+
+**VizLab** is a DevOps infrastructure visualization platform that turns complex architectures into **clear visual intelligence**.
 
 **Capabilities**
 
 - Visual mapping of Docker container relationships  
 - AWS service dependency visualization  
 - Faster identification of architectural issues  
-- Real-time understanding of system flow  
-- A hands-on environment for learning and practicing DevOps troubleshooting  
+- Real-time system flow understanding  
+- Practical environment for learning DevOps troubleshooting  
 
 **Engineering Foundation**
 
 - Docker and AWS metrics ingestion  
 - Dependency correlation engine  
 - Real-time visualization layer  
-- Fully containerized deployment on self-hosted Linux infrastructure  
+- Fully containerized Linux deployment  
 - Production-grade MERN architecture  
 
 ---
 
 ## Architecture Overview
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284126-3e4b34f4-8a0e-4c6b-9c18-f3e68f5e3a8a.gif" width="520"/>
+</p>
 
 User Interface → API Layer → Metrics Processing → Infrastructure Data → Dependency Mapping → Visualization Layer
 
