@@ -12,9 +12,8 @@
   <img src="https://img.shields.io/github/followers/prajwal-1703?style=flat-square&color=1D4ED8" />
   <img src="https://img.shields.io/github/stars/prajwal-1703?style=flat-square&color=3730A3" />
 </p>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://streak-stats.demolab.com?user=prajwal-1703&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
