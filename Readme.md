@@ -1,79 +1,65 @@
-```
 <h1 align="center">Prajwal Athare</h1>
 <p align="center">
-  <b>DevOps Engineer • Cloud Automation • DevSecOps • Infrastructure Visualization</b>
+  <b>DevOps Engineer • Cloud Automation • DevSecOps • Infrastructure Systems</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Designing+Production+Cloud+Systems;Building+Secure+CI%2FCD+Pipelines;Optimizing+AWS+Infrastructure;Visualizing+Complex+DevOps+Environments" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1400&color=2563EB&center=true&vCenter=true&width=620&lines=Production+Cloud+Infrastructure;Secure+CI%2FCD+Pipelines;AWS+Cost+Optimization;Infrastructure+Visualization" />
 </p>
 
 ---
 
-## About Me
+## About
 
-I engineer **secure, automated, and observable cloud infrastructure**. My work focuses on production-grade DevOps systems, cost optimization, and DevSecOps pipelines that scale reliably.
+I build **production-grade, secure, and observable infrastructure systems**.  
+My work sits at the intersection of **cloud engineering, DevOps automation, and DevSecOps practices**, with a focus on reliability, clarity, and cost efficiency.
 
-- Cloud & container infrastructure with AWS and Kubernetes  
-- CI/CD and DevSecOps pipeline design  
-- Infrastructure monitoring, observability, and dependency mapping  
-- Security-integrated deployments (SAST, DAST, container scanning)  
-- Builder of tools that simplify complex systems  
+- Cloud-native infrastructure using AWS and Kubernetes  
+- CI/CD and DevSecOps pipeline engineering  
+- Monitoring, observability, and dependency mapping  
+- Security-integrated delivery (SAST, DAST, container scanning)  
+- Systems designed for scale, resilience, and clarity  
 
 ---
 
-## Featured Product — **VizLab**
+## Featured Product — VizLab
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Live-vizlab.xyz-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Category-DevOps%20Visualization-4F46E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/vizlab.xyz-Live_System-1D4ED8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Domain-DevOps%20Visualization-3730A3?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Infra-Docker%20%2B%20AWS-0EA5E9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Architecture-Production%20MERN-16A34A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Architecture-Production%20MERN-15803D?style=for-the-badge"/>
 </p>
 
-**VizLab** is a **DevOps Infrastructure Visualization Platform** designed to transform infrastructure complexity into clear visual intelligence.
+**VizLab** is a DevOps infrastructure visualization platform built to turn complex system architectures into **clear, interactive visual intelligence**.
 
-**What it enables:**
+**Capabilities**
 
 - Visual mapping of Docker container relationships  
 - AWS service dependency visualization  
-- Faster identification of architecture issues  
-- Real-time infrastructure understanding  
+- Faster identification of architectural issues  
+- Real-time understanding of system flow  
 - A hands-on environment for learning and practicing DevOps troubleshooting  
 
-**Technical foundation:**
+**Engineering Foundation**
 
 - Docker and AWS metrics ingestion  
 - Dependency correlation engine  
 - Real-time visualization layer  
-- Fully containerized deployment on a self-hosted Linux environment  
+- Fully containerized deployment on self-hosted Linux infrastructure  
 - Production-grade MERN architecture  
 
 ---
 
-## System Architecture
+## Architecture Overview
 
-```
-
-User Interface (React)
-↓
-API Layer (Node.js)
-↓
-Metrics & Processing Engine
-↓
-Docker Data + AWS Data Sources
-↓
-Dependency Mapping Logic
-↓
-Infrastructure Visualization Layer
-
-```
+User Interface → API Layer → Metrics Processing → Infrastructure Data → Dependency Mapping → Visualization Layer
 
 ---
 
 ## Technical Stack
 
-**DevOps & Infrastructure**  
+**Infrastructure & DevOps**  
 Docker • Kubernetes • Jenkins • GitHub Actions • Terraform • Nginx • Linux
 
 **Cloud (AWS)**  
@@ -84,13 +70,13 @@ SonarQube • Trivy • OWASP ZAP
 
 ---
 
-## Key Systems Engineered
+## Systems Engineered
 
 | System | Purpose | Outcome |
 |--------|---------|---------|
-| VizLab | Infrastructure visualization platform | Faster debugging and system clarity |
-| AWS Idle Instance Stopper | Automated EC2 cost control | Reduced non-production cloud costs by 40% |
-| DevSecOps CI/CD Pipeline | Secure automated deployments | Lower deployment risk through security gates |
+| VizLab | Infrastructure visualization | Faster debugging and system clarity |
+| AWS Idle Instance Stopper | Automated EC2 cost control | 40% reduction in non-production compute costs |
+| DevSecOps CI/CD Pipeline | Secure automated deployments | Reduced deployment risk via security gates |
 | Uptimely (SaaS) | Endpoint monitoring platform | Faster detection of service incidents |
 
 ---
@@ -108,12 +94,9 @@ SonarQube • Trivy • OWASP ZAP
 
 ---
 
-## Focus Areas
+## Focus
 
-- Production Kubernetes environments  
-- Advanced AWS cost optimization  
-- Open-source DevSecOps contributions  
-- Expanding VizLab into a full observability platform  
+Production Kubernetes • Advanced AWS cost optimization • DevSecOps automation • Expanding VizLab into a broader observability platform
 
 ---
 
@@ -126,4 +109,3 @@ SonarQube • Trivy • OWASP ZAP
 ---
 
 <p align="center"><i>Engineering secure, automated, and observable cloud systems.</i></p>
-```
