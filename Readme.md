@@ -112,8 +112,9 @@ VizLab is a DevOps infrastructure visualization platform that transforms complex
   <img src="https://img.shields.io/badge/Focus-Cloud%20Optimization-1D4ED8?style=flat-square"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwal-1703&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prajwal-1703&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ## Architecture Flow
