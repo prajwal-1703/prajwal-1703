@@ -1,132 +1,101 @@
-````md
-<h1 align="center">⚡ Prajwal Athare ⚡</h1>
-
+```
+<h1 align="center">Prajwal Athare</h1>
 <p align="center">
-  <b>DevOps Engineer • Cloud Automator • DevSecOps Builder • Infrastructure Visualizer</b>
+  <b>DevOps Engineer • Cloud Automation • DevSecOps • Infrastructure Visualization</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Automating+Cloud+Infrastructure;Building+Secure+DevSecOps+Pipelines;Optimizing+AWS+Costs;Visualizing+Complex+Systems;Shipping+Production+Ready+Infra" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Designing+Production+Cloud+Systems;Building+Secure+CI%2FCD+Pipelines;Optimizing+AWS+Infrastructure;Visualizing+Complex+DevOps+Environments" />
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-```yaml
-name: Prajwal Athare
-role: DevOps Engineer
-focus: Cloud Automation + DevSecOps + Infrastructure Visibility
-location: Pune, India
-mission: Build Secure, Automated & Observable Systems
-````
+I engineer **secure, automated, and observable cloud infrastructure**. My work focuses on production-grade DevOps systems, cost optimization, and DevSecOps pipelines that scale reliably.
 
-* ☁️ Production-focused on AWS, Kubernetes & scalable cloud systems
-* 🐳 Deploying real workloads using Docker, Linux & Nginx
-* ⚙️ Designing CI/CD + DevSecOps pipelines (Jenkins, GitHub Actions, Terraform)
-* 🔍 Obsessed with observability, infra mapping & cost optimization
-* 🔐 Security-first mindset → SAST • DAST • Container Scanning
-* 🌍 Builder of tools that simplify complex infrastructure
+- Cloud & container infrastructure with AWS and Kubernetes  
+- CI/CD and DevSecOps pipeline design  
+- Infrastructure monitoring, observability, and dependency mapping  
+- Security-integrated deployments (SAST, DAST, container scanning)  
+- Builder of tools that simplify complex systems  
 
 ---
 
-# 🌟 Featured Product — **VizLab**
+## Featured Product — **VizLab**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Live-vizlab.xyz-00F7FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DevOps-Visualization-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker%20%2B%20AWS-Infra-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Live-vizlab.xyz-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Category-DevOps%20Visualization-4F46E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Infra-Docker%20%2B%20AWS-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Architecture-Production%20MERN-16A34A?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="600"/>
-</p>
+**VizLab** is a **DevOps Infrastructure Visualization Platform** designed to transform infrastructure complexity into clear visual intelligence.
 
-### 🔍 What is VizLab?
+**What it enables:**
 
-**VizLab** is a **DevOps Infrastructure Visualization Platform** that transforms complex infrastructure into interactive visual intelligence.
+- Visual mapping of Docker container relationships  
+- AWS service dependency visualization  
+- Faster identification of architecture issues  
+- Real-time infrastructure understanding  
+- A hands-on environment for learning and practicing DevOps troubleshooting  
 
-### 🚀 What VizLab Enables
+**Technical foundation:**
 
-✨ Visualize Docker container relationships
-✨ Map AWS service dependencies
-✨ Detect architecture misconfigurations
-✨ Understand system flow instantly
-✨ Practice troubleshooting in a simulated environment
-✨ Learn DevOps visually instead of reading static logs
-
-### ⚙️ Under The Hood
-
-* 📊 Docker + AWS metrics collection engine
-* 🔗 Dependency correlation system
-* 📡 Real-time infrastructure visibility
-* 🐧 Deployed on self-hosted Linux homelab
-* 🐳 Fully containerized architecture
-* 🌐 Production MERN stack
+- Docker and AWS metrics ingestion  
+- Dependency correlation engine  
+- Real-time visualization layer  
+- Fully containerized deployment on a self-hosted Linux environment  
+- Production-grade MERN architecture  
 
 ---
 
-# 🧠 Architecture Flow
+## System Architecture
 
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="550"/>
-</p>
+```
 
-```text
-User → React Frontend → Node API → Metrics Engine
-                                      ↓
-                           Docker Data + AWS Data
-                                      ↓
-                          Dependency Mapping Logic
-                                      ↓
-                          Visualization Layer
+User Interface (React)
+↓
+API Layer (Node.js)
+↓
+Metrics & Processing Engine
+↓
+Docker Data + AWS Data Sources
+↓
+Dependency Mapping Logic
+↓
+Infrastructure Visualization Layer
+
 ```
 
 ---
 
-# 🛠 Tech Arsenal
+## Technical Stack
 
-### ⚙️ DevOps & Infra
+**DevOps & Infrastructure**  
+Docker • Kubernetes • Jenkins • GitHub Actions • Terraform • Nginx • Linux
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+**Cloud (AWS)**  
+EC2 • Lambda • CloudWatch • IAM • VPC
 
-### ☁️ AWS
-
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge\&logo=amazon-ec2\&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge\&logo=aws-lambda\&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge\&logo=amazon-cloudwatch\&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge\&logo=amazon-iam\&logoColor=white)
-
-### 🔐 DevSecOps
-
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge\&logo=sonarqube\&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge\&logo=trivy\&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge\&logo=owasp\&logoColor=white)
+**DevSecOps**  
+SonarQube • Trivy • OWASP ZAP
 
 ---
 
-# 🚀 Systems I've Built
+## Key Systems Engineered
 
-| System                        | Description                           | Impact                           |
-| ----------------------------- | ------------------------------------- | -------------------------------- |
-| **VizLab**                    | Infrastructure visualization platform | Faster debugging & infra clarity |
-| **AWS Idle Instance Stopper** | Auto-stops idle EC2 instances         | 💰 40% cost reduction            |
-| **DevSecOps Pipeline**        | Secure CI/CD with SAST + DAST         | Reduced deployment risk          |
-| **Uptimely (SaaS)**           | Real-time endpoint monitoring         | Faster incident detection        |
+| System | Purpose | Outcome |
+|--------|---------|---------|
+| VizLab | Infrastructure visualization platform | Faster debugging and system clarity |
+| AWS Idle Instance Stopper | Automated EC2 cost control | Reduced non-production cloud costs by 40% |
+| DevSecOps CI/CD Pipeline | Secure automated deployments | Lower deployment risk through security gates |
+| Uptimely (SaaS) | Endpoint monitoring platform | Faster detection of service incidents |
 
 ---
 
-# 📊 Live GitHub Analytics
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prajwal-1703&show_icons=true&theme=tokyonight&count_private=true" />
@@ -139,22 +108,22 @@ User → React Frontend → Node API → Metrics Engine
 
 ---
 
-# 🎯 Mission
+## Focus Areas
 
-* 🚀 Build DevOps starter kits for students
-* ☁️ Master Kubernetes at production scale
-* 🔐 Contribute to DevSecOps tooling
-* 📊 Expand VizLab into an observability suite
+- Production Kubernetes environments  
+- Advanced AWS cost optimization  
+- Open-source DevSecOps contributions  
+- Expanding VizLab into a full observability platform  
 
 ---
 
 <p align="center">
-  <a href="https://github.com/prajwal-1703"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/prajwal-athare-a4074628a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://x.com/deva_1703"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" /></a>
+  <a href="https://github.com/prajwal-1703"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/prajwal-athare-a4074628a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://x.com/deva_1703"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/></a>
 </p>
 
 ---
 
-<h3 align="center">💡 Engineering secure, automated & observable cloud systems.</h3>
+<p align="center"><i>Engineering secure, automated, and observable cloud systems.</i></p>
 ```
