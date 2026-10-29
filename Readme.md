@@ -1,182 +1,167 @@
-<h1 align="center">Prajwal Athare</h1>
-<p align="center">
-  <b>DevOps Engineer • Cloud Automation • DevSecOps • Infrastructure Systems</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1400&color=2563EB&center=true&vCenter=true&width=640&lines=Production+Cloud+Infrastructure;Secure+CI%2FCD+Pipelines;AWS+Cost+Optimization;Infrastructure+Visualization" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:1D4ED8,100:7C3AED&height=220&section=header&text=Prajwal%20Athare&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Automation%20%E2%80%A2%20DevSecOps&descAlignY=60&descSize=18" alt="Prajwal Athare banner" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prajwal-1703&style=flat-square&color=2563EB" />
-  <img src="https://img.shields.io/github/followers/prajwal-1703?style=flat-square&color=1D4ED8" />
-  <img src="https://img.shields.io/github/stars/prajwal-1703?style=flat-square&color=3730A3" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prajwal-1703&theme=tokyonight&hide_border=true" />
-</p>
+<a href="https://github.com/prajwal-1703">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&height=50&lines=Building+secure+cloud+infrastructure;Shipping+CI%2FCD+pipelines+with+security+gates;Cutting+AWS+costs+by+40%25;Making+infrastructure+visible+with+VizLab" alt="Typing animation" />
+</a>
 
----
+<br/>
 
-## About
+[![Portfolio: VizLab](https://img.shields.io/badge/🚀_Live_Product-VizLab-1D4ED8?style=for-the-badge)](https://vizlab.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-athare-a4074628a/)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/deva_1703)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharep1703@gmail.com)
 
-I design **secure, automated, and observable cloud systems** with a strong focus on production reliability, DevSecOps practices, and infrastructure clarity.
+<img src="https://komarev.com/ghpvc/?username=prajwal-1703&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/prajwal-1703?style=flat-square&color=1D4ED8&label=FOLLOWERS" alt="Followers" />
+<img src="https://img.shields.io/github/stars/prajwal-1703?style=flat-square&color=7C3AED&label=STARS" alt="Stars" />
 
-- Cloud-native systems on AWS & Kubernetes  
-- CI/CD and DevSecOps pipeline engineering  
-- Monitoring, observability & dependency mapping  
-- Security-integrated delivery pipelines  
-- Infrastructure built for scale and resilience  
+</div>
 
 ---
 
-## ⚙️ DevOps Control Deck
+## 👋 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud-AWS-1D4ED8?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/Containers-Docker-0EA5E9?style=for-the-badge&logo=docker"/>
-  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-2563EB?style=for-the-badge&logo=kubernetes"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-1E3A8A?style=for-the-badge&logo=githubactions"/>
-  <img src="https://img.shields.io/badge/Infra-Terraform-7C3AED?style=for-the-badge&logo=terraform"/>
-</p>
+I design **secure, automated, and observable cloud systems** with a focus on production reliability, DevSecOps, and infrastructure clarity.
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwal-1703&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prajwal-1703&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prajwal-1703&theme=tokyonight" />
-</p>
+| | |
+|---|---|
+| ☁️ **Cloud** | AWS-native architectures on containers and Kubernetes |
+| 🔄 **Delivery** | CI/CD pipelines with built-in security gates |
+| 👁️ **Observability** | Monitoring, metrics, and dependency mapping |
+| 💸 **Efficiency** | Automation that cuts cloud spend without cutting reliability |
+| 🎯 **Now** | Production Kubernetes · AWS cost optimization · growing VizLab into a full observability suite |
 
 ---
 
-## Featured Product — VizLab
+## 🧰 Tech Stack
 
-<p align="center">
-  <a href="https://vizlab.xyz">
-    <img src="https://img.shields.io/badge/Visit-VizLab-1D4ED8?style=for-the-badge"/>
-  </a>
-  <img src="https://img.shields.io/badge/DevOps-Visualization-3730A3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker%20%2B%20AWS-Infra-0EA5E9?style=for-the-badge"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-02e1b87a-7b77-4c1c-8d89-0f8e4a5a0f28.gif" width="520"/>
-</p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,jenkins,linux,nginx,nodejs,react,bash,git&perline=12" alt="Tech stack icons" />
 
-VizLab is a DevOps infrastructure visualization platform that transforms complex architectures into **clear, interactive visual intelligence**.
+</div>
 
 <details>
-<summary><b>What VizLab Enables</b></summary>
+<summary><b>🔎 Explore by category (click to expand)</b></summary>
+<br/>
 
-- Visual Docker container relationship mapping  
-- AWS service dependency visualization  
-- Faster architectural issue detection  
-- Real-time system flow clarity  
-- Hands-on DevOps troubleshooting environment  
-
-</details>
-
-<details>
-<summary><b>Engineering Foundation</b></summary>
-
-- Docker & AWS metrics ingestion  
-- Dependency correlation engine  
-- Real-time visualization layer  
-- Fully containerized Linux deployment  
-- Production MERN architecture  
+| Category | Tools |
+|----------|-------|
+| ☁️ Cloud | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900) |
+| 📦 Containers | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| 🏗️ IaC | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
+| 🔄 CI/CD | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) |
+| 🌐 Web & Runtime | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| 🐧 Systems | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
 
 </details>
 
 ---
 
-## 🛰 Infrastructure Signals
+## 🚀 Featured Product: VizLab
 
-<p align="center">
-  <img src="https://img.shields.io/badge/System-Status-Operational-16A34A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-Pipelines-Active-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS-Running-0EA5E9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Containers-Dockerized-2496ED?style=for-the-badge"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Infra-Fully%20Automated-1D4ED8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Security-DevSecOps%20Enabled-9333EA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Monitoring-Real--Time-F59E0B?style=for-the-badge"/>
-</p>
+[![Visit VizLab](https://img.shields.io/badge/Visit-vizlab.xyz-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vizlab.xyz)
+![Stack](https://img.shields.io/badge/MERN-Docker_+_AWS-0EA5E9?style=for-the-badge)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Kubernetes-326CE5?style=flat-square&logo=kubernetes"/>
-  <img src="https://img.shields.io/badge/Focus-Terraform-7C3AED?style=flat-square&logo=terraform"/>
-  <img src="https://img.shields.io/badge/Focus-Cloud%20Optimization-1D4ED8?style=flat-square"/>
-</p>
-<p align="center">
-  <img src="https://ghchart.rshah.org/2563eb/prajwal-1703" alt="Prajwal's GitHub Contribution Chart" />
-</p>
+</div>
 
----
+**VizLab** is a DevOps infrastructure visualization platform that turns complex architectures into clear, interactive visual intelligence.
 
-## Architecture Flow
+<details>
+<summary><b>✨ What VizLab enables</b></summary>
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:3730A3&height=120&section=header&text=System%20Architecture&fontSize=30&fontColor=ffffff&animation=fadeIn" />
-</p>
+- Visual mapping of Docker container relationships
+- AWS service dependency visualization
+- Faster detection of architectural issues
+- Real-time view of system flow
+- A hands-on environment for DevOps troubleshooting
 
-<p align="center">
-  <img src="https://img.shields.io/badge/User_Interface-React-61DAFB?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/API-Layer-Node.js-339933?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Metrics-Engine-Processing-9333EA?style=for-the-badge"/>
-</p>
+</details>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Data-Docker-2496ED?style=for-the-badge&logo=docker"/>
-  <img src="https://img.shields.io/badge/Data-AWS-FF9900?style=for-the-badge&logo=amazonaws"/>
-</p>
+<details>
+<summary><b>🏗️ How it's built</b></summary>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Dependency-Mapping-0EA5E9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Visualization-Layer-16A34A?style=for-the-badge"/>
-</p>
+```mermaid
+flowchart LR
+    A[Docker + AWS<br/>Metrics] --> B[Ingestion<br/>Node.js API]
+    B --> C[Dependency<br/>Correlation Engine]
+    C --> D[Real-time<br/>Visualization Layer]
+    D --> E[React UI]
+```
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3730A3,100:1D4ED8&height=100&section=footer"/>
-</p>
+- Docker and AWS metrics ingestion
+- Dependency correlation engine
+- Real-time visualization layer
+- Fully containerized Linux deployment
+- Production MERN architecture
 
+</details>
 
 ---
 
-## Tech Stack
+## 🛠️ Systems Engineered
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,nginx,linux,aws,nodejs,react" />
-</p>
-
----
-
-## Systems Engineered
-
-| System | Outcome |
-|--------|---------|
-| VizLab | Infrastructure visibility & faster debugging |
-| AWS Idle Instance Stopper | 40% reduction in non-production compute costs |
-| DevSecOps CI/CD Pipeline | Reduced deployment risk via security gates |
-| Uptimely (SaaS) | Faster detection of service incidents |
+| System | What it does | Impact |
+|--------|--------------|--------|
+| 🔭 **VizLab** | Infrastructure visualization platform | Visibility and faster debugging |
+| 💤 **AWS Idle Instance Stopper** | Stops idle non-production instances | **40%** lower non-prod compute cost |
+| 🛡️ **DevSecOps CI/CD Pipeline** | Pipeline with automated security gates | Reduced deployment risk |
+| 📡 **Uptimely** (SaaS) | Service uptime monitoring | Faster incident detection |
 
 ---
 
-## Focus Areas
+## 📊 GitHub Activity
 
-Production Kubernetes • AWS cost optimization • DevSecOps automation • Expanding VizLab into a full observability suite
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prajwal-1703&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-1703&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=prajwal-1703&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwal-1703&theme=tokyonight" alt="Profile details" />
+
+<img src="https://ghchart.rshah.org/2563eb/prajwal-1703" alt="Contribution chart" />
+
+</div>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/prajwal-1703"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/prajwal-athare-a4074628a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://x.com/deva_1703"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/></a>
-</p>
+## 🎮 Quick Links
+
+<details>
+<summary><b>📬 How can we work together?</b></summary>
+<br/>
+
+- 🏗️ Cloud infrastructure and Kubernetes setup
+- 🔐 DevSecOps pipeline design
+- 💰 AWS cost optimization reviews
+- 📈 Observability and monitoring strategy
+
+👉 [Message me on LinkedIn](https://www.linkedin.com/in/prajwal-athare-a4074628a/) or [send an email](mailto:atharep1703@gmail.com).
+
+</details>
+
+<details>
+<summary><b>💡 Fun fact</b></summary>
+<br/>
+
+I treat infrastructure like a product: if it can't be seen, measured, and automated, it isn't finished. That's the idea behind VizLab.
+
+</details>
 
 ---
 
-<p align="center"><i>Engineering secure, automated, and observable cloud systems.</i></p>
+<div align="center">
+
+<i>Engineering secure, automated, and observable cloud systems.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:0F172A&height=110&section=footer" alt="Footer" />
+
+</div>
