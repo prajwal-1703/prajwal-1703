@@ -120,8 +120,10 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prajwal-1703&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-1703&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prajwal-1703&theme=tokyonight" alt="GitHub stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prajwal-1703&theme=tokyonight" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prajwal-1703&theme=tokyonight" alt="Most used languages" />
 
 <img src="https://streak-stats.demolab.com?user=prajwal-1703&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
